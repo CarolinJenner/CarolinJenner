@@ -1,8 +1,9 @@
-### Hi folks 👋
+### Hi folks :dancer:
 
-newbie @Coding Bootcamps Europe
+newbie <a href="https://github.com/coding-bootcamps-eu">@coding-bootcamps-europe</a>
 
-🌱 I’m currently learning ...
+designer :white_check_mark: <br/>
+web developer :soon:
 
 
 <!--
