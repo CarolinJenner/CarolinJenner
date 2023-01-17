@@ -1,23 +1,8 @@
 ### Hi folks :dancer:
 
-🌱 newbie [@coding-bootcamps-europe](https://github.com/coding-bootcamps-eu)
+🎓 graduated [@coding-bootcamps-europe](https://github.com/coding-bootcamps-eu) 🎉
+🔧 developer
+🖌️ designer
 
-
-designer :white_check_mark: <br/>
-web developer :soon:
-
-
-<!--
-**CarolinJenner/CarolinJenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aesthetic loving web developer.
+Born and living in Wiesbaden, I am nevertheless at home everywhere with a lot of wandelust, my head in the clous and my eyes on the next project.
