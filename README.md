@@ -5,4 +5,4 @@
 🖌️ designer
 
 I'm an aesthetic loving web developer.
-Born and living in Wiesbaden, I am nevertheless at home everywhere with a lot of wandelust, my head in the clous and my eyes on the next project.
+Born and living in Wiesbaden, I am nevertheless at home everywhere with a lot of wanderlust, my head in the clouds and my eyes on the next project.
